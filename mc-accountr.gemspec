@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['alexander.somerville.cox@gmail.com']
   spec.summary       = 'Client to use Minecraft Profile API'
   spec.description   = 'Provides access for the minecraft profile API.'
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/LambdaSix/Accountr"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
